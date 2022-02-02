@@ -1,0 +1,25 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Crowell",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpc0023/README-Generator.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "bugs": {
+    "url": "https://github.com/jpc0023/README-Generator/issues"
+  },
+  "homepage": "https://github.com/jpc0023/README-Generator#readme"
+}
